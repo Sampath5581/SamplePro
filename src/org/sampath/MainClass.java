@@ -6,6 +6,9 @@ public class MainClass {
 		// TODO Auto-generated method stub test
      System.out.println("Sample Java Pro");
 		int i=20;
+		System.out.println(i++);
+	i++;
+		System.out.println(i++);
 		System.out.println(i);
 		
 	}
