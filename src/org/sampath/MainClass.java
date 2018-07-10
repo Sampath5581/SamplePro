@@ -9,7 +9,7 @@ public class MainClass {
 		System.out.println(i++);
 	i++;
 		System.out.println(i++);
-		System.out.println(i);
+		
 		
 	}
 
