@@ -7,6 +7,7 @@ public class MainClass {
      System.out.println("Sample Java Pro");
 		int i=20;
 		i++;
+		i--;
 		System.out.println(i++);
 
 
